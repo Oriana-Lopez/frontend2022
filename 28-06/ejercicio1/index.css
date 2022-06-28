@@ -1,8 +1,33 @@
 h1{
-    color:blue;
-    font-stretch: extra-expanded;
+    color: darkblue;
+    text-align: center;
 }
 
+h2{
+    color: blue;
+    text-align: center;
+}
+
+p{
+    color: orange;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: left;
+    background-color: darkgoldenrod;
+}
 .parrafoVioleta{
     color:blueviolet;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: palevioletred;
+}
+
+#parrafoVerde{
+    color: green;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: right;
+    background-color: paleturquoise;
+}
+
+ul{
+    list-style-type: square;
 }
