@@ -1,0 +1,72 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: papayawhip;
+}
+
+.general{
+    margin: auto;
+    width: 50%;
+    height: 937px;
+    background-color: palegoldenrod;
+}
+
+.extra{
+    float: right;
+    width: 300px;
+    height: 500px;
+    background-color: palegreen;
+    border: 2px solid black;
+}
+
+.head{
+    width: 640px;
+    height: 200px;
+    background-color: powderblue;
+    border: 2px solid black;
+}
+
+.body{
+    margin-top: 20px;
+    width: 640px;
+    height: 709px;
+    background-color: plum;
+    border: 2px solid black;
+}
+
+h1{
+    padding: 10px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h2{
+    padding: 10px;
+    text-align: center;
+    font-size:large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+p{
+    padding: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+}
+
+.infoextra{
+    padding-top: 40%;
+}
+
+ul{
+    padding-left: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+}
+
+img{
+    padding-top: 15px;
+    padding-left: 100px;
+}
